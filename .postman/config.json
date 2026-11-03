@@ -1,0 +1,32 @@
+{
+  "workspace": {
+    "id": "e9301d21-82f6-4427-812e-643f45706a8d"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/New Specification_54719020-437b9f33-175b-4d21-8ca1-1e2f43a9732c.postman_collection.json",
+      "../postman/collections/PayPal APIs_54719020-67c1c801-b5b7-4087-a196-915047760607.postman_collection.json",
+      "../postman/collections/Docusign eSignature REST API_54719020-6ba746b1-bcc1-4b11-9f1e-f02c4ba6d2fa.postman_collection.json",
+      "../postman/collections/Alexsio_54719020-9f22a291-a6ed-4c6f-8206-46cd011a8782.postman_collection.json",
+      "../postman/collections/SwiftRef API_54719020-a7c0386c-738d-409c-b33b-24bb8ccf1873.postman_collection.json",
+      "../postman/collections/SwiftRef API_54719020-b8ba1929-d611-4a0c-8366-fbb0169ddd9a.postman_collection.json",
+      "../postman/collections/PayPal APIs_54719020-cd82cd20-4a60-457c-b1a5-3727fb504a13.postman_collection.json",
+      "../postman/collections/Docusign Admin API_54719020-dd07ede7-2ce5-47e2-9226-f15756d6037e.postman_collection.json",
+      "../postman/collections/Docusign eSignature REST API_54719020-e3436ccc-02d3-444b-a6d5-a48e13b2073a.postman_collection.json",
+      "../postman/collections/PayPal APIs_54719020-e86e3f30-0dc7-47b4-9f9b-95464cbf1e2b.postman_collection.json"
+    ],
+    "environments": [
+      "../postman/environments/New Environment_54719020-ac6a999a-76df-4ae2-b0b6-746bf2c3f5fc.postman_environment.json",
+      "../postman/environments/New Environment_54719020-f77e5fa8-bb7b-49d7-b437-b8d8f5a210af.postman_environment.json",
+      "../postman/environments/PayPal + Docusign Environment_54719020-c106dc85-1eb3-4a1f-a181-24b5b44831ef.postman_environment.json",
+      "../postman/environments/Alexsio_54719020-85e9aa3a-3783-468f-b274-e7b3021dd621.postman_environment.json",
+      "../postman/environments/Docusign Admin API Environment_54719020-094f559b-fcce-4d03-a714-c24edbbb114c.postman_environment.json",
+      "../postman/environments/PayPal + Docusign Environment_54719020-4f3f67e4-4b7c-4c66-8fb7-281738eb690e.postman_environment.json",
+      "../postman/environments/Docusign Environment_54719020-ac9272f7-dc52-4419-96d1-5883ee5b41e8.postman_environment.json",
+      "../postman/environments/Docusign Live Environment_54719020-4621fdc0-7d01-4143-99f3-34df1aa6c5ad.postman_environment.json"
+    ],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
